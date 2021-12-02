@@ -18,6 +18,6 @@ while not done:
     else:
         end = mon*3
         start = end - 3
-        print("Your month was ",months[start:end])
+        print("Your month was ", months[start:end])
 print("Goodbye")
 
